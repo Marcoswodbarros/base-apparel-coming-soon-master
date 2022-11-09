@@ -1,0 +1,18 @@
+.header__logo{
+    background-image: url(../images/logo.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 3vh;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    width: 25vw;
+}
+
+.header__background{
+    background-image: url(../images/hero-mobile.jpg);
+    background-size: cover;
+    height: 30vh;
+    margin-top: 2rem;
+    width: 100vw;
+}

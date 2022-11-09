@@ -1,0 +1,22 @@
+@import url(header.css);
+@import url(main.css);
+
+:root{
+    --color-resaturated-red: hsl(0, 36%, 70%);
+    --color-soft-red: hsl(0, 93%, 68%);
+
+    --color-dark-grayish-red: hsl(0, 6%, 24%);
+
+    --color-first-gradient: Linear, 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%);
+    --color-second-gradient: Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%);
+
+    --font-josefin: "Josefin Sans";
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+}
