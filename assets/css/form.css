@@ -50,3 +50,32 @@ form{
 
     display: none;
 }
+
+
+
+@media screen and (min-width: 1440px){
+    .form__email{
+        font-size: 1rem;
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+        width: 60%;
+    }
+
+    .form__email::placeholder{
+        font-size: 1rem;
+    }
+
+    .form__error--icon{
+        bottom: 2.8rem;
+        left: 31rem;
+        position: absolute;
+        top: 38.2rem;
+    }
+
+    .form__arrow{
+        border-radius: 2.5rem;
+        left: 34rem;
+        padding: 1.3rem 2.5rem;
+        top: 36.8rem;
+    }
+}

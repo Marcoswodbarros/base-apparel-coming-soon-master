@@ -40,4 +40,38 @@ p{
     main{
         flex-direction: row;
     }
+
+    .container__desktop{
+        padding: 1rem;
+        width: 55%;
+    }
+
+    .main__logo--desktop{
+        display: block;
+        background-image: url(../images/logo.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 5vh;
+        width: 15vw;
+
+        position: absolute;
+        bottom: 43rem;
+        left: 10rem;
+    }
+
+    h1{
+        font-size: 4.5rem;
+        line-height: 5rem;
+        margin-left: 9.5rem;
+        text-align: start;
+    }
+
+    p{
+        font-size: 1.07rem;
+        line-height: 2rem;
+        margin-left: 9.5rem;
+        text-align: start;
+        width: 60%;
+    }
 }
