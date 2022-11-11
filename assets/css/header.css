@@ -16,3 +16,24 @@
     margin-top: 2rem;
     width: 100vw;
 }
+
+
+
+@media screen and (min-width: 1440px){
+    .header__logo{
+        display: none;
+    }
+
+    .header__background{
+        display: none;
+    }
+
+    .header__background--desktop{
+        background-image: url(../images/hero-desktop.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 40vw;
+    }
+}
