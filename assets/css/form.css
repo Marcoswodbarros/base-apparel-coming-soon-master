@@ -32,8 +32,8 @@ form{
 }
 
 .form__arrow{
-    background: var(--color-soft-red);
     border-radius: 1.5rem;
+    background: var(--color-soft-red);
     left: 14.9rem;
     padding: .65rem 2rem;
     position: absolute;
@@ -77,6 +77,10 @@ form{
         left: 34rem;
         padding: 1.3rem 2.5rem;
         top: 36.8rem;
+    }
+
+    form button{
+        background-image: linear-gradient(135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%));
     }
 
     .form__error--span{

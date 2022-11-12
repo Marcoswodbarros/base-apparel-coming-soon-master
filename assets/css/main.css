@@ -4,6 +4,12 @@ main{
     flex-direction: column;
 }
 
+.container__desktop{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
 h1{
     color: var(--color-resaturated-red);
     font-family: var(--font-josefin);
