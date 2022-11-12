@@ -78,4 +78,10 @@ form{
         padding: 1.3rem 2.5rem;
         top: 36.8rem;
     }
+
+    .form__error--span{
+        font-size: .9rem;
+        right: 66.5rem;
+        top: 42rem;
+    }
 }
