@@ -74,13 +74,10 @@ form{
 
     .form__arrow{
         border-radius: 2.5rem;
+        cursor: pointer;
         left: 34rem;
         padding: 1.3rem 2.5rem;
         top: 36.8rem;
-    }
-
-    form button{
-        background-image: linear-gradient(135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%));
     }
 
     .form__error--span{
@@ -88,4 +85,4 @@ form{
         right: 66.5rem;
         top: 42rem;
     }
-}
+}    
