@@ -48,6 +48,7 @@ p{
     }
 
     .container__desktop{
+        display: block;
         padding: 1rem;
         width: 55%;
     }
