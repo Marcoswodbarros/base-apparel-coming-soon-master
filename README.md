@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](../base-apparel-coming-soon-master/assets/screenshots/375px.png)
+![375px](https://user-images.githubusercontent.com/108278189/203457569-172b35b1-3bb1-44c9-a7e6-ffa07cf63ca0.png)
 
-![](../base-apparel-coming-soon-master/assets/screenshots/1440px.png)
+![1440px](https://user-images.githubusercontent.com/108278189/203457625-39c710e3-7347-4197-ae7e-cf92c065208a.png)
 
 ### Links
 
